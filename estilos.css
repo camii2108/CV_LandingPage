@@ -241,5 +241,12 @@ html{
     margin-right: 10px;
 }
 
+.habilidades .contenido-seccion .barra .e{
+    background-color: #363636;
+    width: 20px;
+    height: 30px;
+    margin-right: 2px;
+}
+
 
 
