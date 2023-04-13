@@ -296,6 +296,10 @@ html{
     border-bottom: 1px solid #bab9b9;
 }
 
+.resumen .contenido-seccion .info .col table h4{
+    margin-top: 10px;
+}
+
 
 
 
