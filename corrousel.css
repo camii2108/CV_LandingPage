@@ -1,0 +1,71 @@
+@import url(estilos.css);
+
+.titulo {
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 40px;
+    color: #fff;
+}
+
+.subtituloCarrousel {
+    margin: 0;
+    color: #000;
+    display: inline;
+    font-size: 10px;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+.sabor { 
+    color: #fff;
+    margin: 7px 0;
+    font-size: 50px;
+    font-weight: 600;
+    text-shadow: 2px 2px 1px rgba(0,0,0,0.7);
+    font-family: 'Dancing Script', cursive;
+    margin-top: 0;
+}
+
+.linea-division {
+    width: 80%;
+    height: 2px;
+    background-color: #36221c;
+}
+
+/* ESTILOS DE MATERIALIZE: Estilos a la  pagina */
+
+.carousel {
+    min-height: 700px;
+}
+/* contenedor de los textos */
+.carousel .carousel-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    user-select: none;/* para que no me selecciones el texto al arrastar slider */
+   
+    /* el tamaño que va atener nuestrocarrusel */
+    width: 800%;
+    height: 800%;
+}
+
+.carousel .carousel-item .img-carousel {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;/* para que nose me deforme la imagen */
+    position: absolute;
+    /* queremos arriba la imagen cordenadas */
+    top: 0;
+    left: 0;
+    /* mandamos el texto adelante con la cordenada -1, ya el 0 es mayor  */
+    z-index: -1;
+    border-radius: 15px;
+}
+
+.carousel .indicators .indicator-item {
+    border-radius: 0;
+    transform: rotate(45deg);
+    margin: 0 15px;
+    background-color: #9017e7;
+}
