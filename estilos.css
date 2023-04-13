@@ -344,6 +344,10 @@ html{
     justify-content: space-around;
 }
 
+.contacto .contenido-seccion .fila .col{
+    margin-top: 50px;
+}
+
 
 
 
