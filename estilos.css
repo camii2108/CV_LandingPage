@@ -291,6 +291,11 @@ html{
     border-collapse: collapse;
 }
 
+.resumen .contenido-seccion .info .col table .datos{
+    width: 40%;
+    border-bottom: 1px solid #bab9b9;
+}
+
 
 
 
