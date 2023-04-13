@@ -74,5 +74,9 @@ html{
     transition: .3s;
 }
 
+.inicio .contenido-seccion header .nav-bar:hover{
+    box-shadow: 0 0 35px #fff;
+}
+
 
 
