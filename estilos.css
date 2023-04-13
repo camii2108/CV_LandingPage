@@ -62,5 +62,17 @@ html{
     font-family: "Yellowtail";
 }
 
+.inicio .contenido-seccion header .nav-bar{
+    position: fixed;
+    background-color: #940253;
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    line-height: 50px;
+    cursor: pointer;
+    transition: .3s;
+}
+
 
 
