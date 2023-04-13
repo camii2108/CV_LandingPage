@@ -320,6 +320,20 @@ html{
     padding-left: 20px;
 }
 
+/* SECCION CONTACTO */
+.contacto{
+    background-color: #202020;
+    padding: 140px 0 100px 0;
+    color: #e6e6e6;
+    text-align: center;
+}
+
+.contacto .contenido-seccion{
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 10px;
+}
+
 
 
 
