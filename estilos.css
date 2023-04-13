@@ -87,5 +87,12 @@ html{
     letter-spacing: 5px;
 }
 
+.inicio .contenido-seccion .info h2{
+    font-weight: normal;
+    font-size: 20px;
+    margin-top: -10px;
+    letter-spacing: 2px;
+}
+
 
 
