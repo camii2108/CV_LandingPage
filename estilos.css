@@ -57,5 +57,10 @@ html{
     text-shadow: 0 0 35px #fff;
 }
 
+.inicio .contenido-seccion header .logo .color{
+    color: #940253;
+    font-family: "Yellowtail";
+}
+
 
 
