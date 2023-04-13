@@ -82,5 +82,10 @@ html{
     padding-bottom: 130px;
 }
 
+.inicio .contenido-seccion .info h1{
+    font-size: 3rem;
+    letter-spacing: 5px;
+}
+
 
 
