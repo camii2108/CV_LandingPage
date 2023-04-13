@@ -174,5 +174,19 @@ html{
     justify-content: space-between;
 }
 
+.sobremi .contenido-seccion .fila .col{
+    width: 30%;
+}
+
+.sobremi .contenido-seccion .fila .col i{
+    color: #940253;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #940253;
+    line-height: 40px;
+    border-radius: 50%;
+}
+
 
 
