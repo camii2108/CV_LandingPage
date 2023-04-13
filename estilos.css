@@ -188,5 +188,11 @@ html{
     border-radius: 50%;
 }
 
+.sobremi .contenido-seccion .fila .col span{
+    display: block;
+    font-weight: bold;
+    margin: 8px 0;
+}
+
 
 
