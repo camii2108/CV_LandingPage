@@ -28,3 +28,15 @@ html{
 .inicio .contenido-seccion header{
     padding: 30px;
 }
+
+/* menu lateral */
+.inicio .contenido-seccion header nav{
+    position: fixed;
+    margin-left: 60px;
+    background-color: #940253;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: left;
+    z-index: 99;
+    display: none;
+}
