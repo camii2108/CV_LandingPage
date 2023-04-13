@@ -277,6 +277,15 @@ html{
     width: 45%;
 }
 
+.resumen .contenido-seccion .info .col .titulo{
+    display: inline-block;
+    color: #940253;
+    font-weight: bold;
+    border: 2px solid #940253;
+    padding: 10px;
+
+}
+
 
 
 
