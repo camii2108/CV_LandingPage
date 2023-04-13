@@ -315,6 +315,11 @@ html{
     font-weight: bold;
 }
 
+.resumen .contenido-seccion .info .col table .descripcion{
+    border-left: 1px solid #bab9b9;
+    padding-left: 20px;
+}
+
 
 
 
