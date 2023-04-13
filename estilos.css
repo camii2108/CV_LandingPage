@@ -248,5 +248,12 @@ html{
     margin-right: 2px;
 }
 
+/* SECCION RESUMEN */
+.resumen{
+    background-color: #e6e6e6;
+    padding: 140px 0 100px 0;
+    text-align: center;
+}
+
 
 
