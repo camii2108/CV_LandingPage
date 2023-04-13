@@ -334,6 +334,11 @@ html{
     padding: 0 10px;
 }
 
+.contacto .contenido-seccion h3{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
 
 
 
