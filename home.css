@@ -12,7 +12,7 @@ html{
 /* SECCION INICIO */
 .inicio{
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),
-    url("img/fondo.jpg");
+    url("img/1.gif");
     background-size: cover;
     background-position: center center;
     color: #fff;
@@ -123,7 +123,8 @@ html{
 }
 
 .inicio .contenido-seccion .foto img{
-    max-width: 200px;
+    max-width: 300px;
+    height: 300px;
     border-radius: 50%;
     border: 5px solid #940253;
     position: absolute;
